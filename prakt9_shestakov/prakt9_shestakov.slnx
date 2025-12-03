@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../ChildProcess/ChildProcess.vcxproj" Id="8190c321-cd1a-4212-9cba-7902a1ad11c0" />
+  <Project Path="prakt9_shestakov.vcxproj" Id="89b74f31-840c-4325-a75e-5b19fbd4ed76" />
+</Solution>

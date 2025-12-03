@@ -1,0 +1,4 @@
+﻿  prakt9_shestakov.cpp
+C:\Users\viktor\Desktop\системные\prakt9_shestakov\prakt9_shestakov.cpp(51,11): warning C4311: приведение типов: усечение указателя из "HANDLE" в "int"
+C:\Users\viktor\Desktop\системные\prakt9_shestakov\prakt9_shestakov.cpp(51,11): warning C4302: приведение типов: усечение из "HANDLE" к "int"
+  prakt9_shestakov.vcxproj -> C:\Users\viktor\Desktop\системные\prakt9_shestakov\x64\Debug\prakt9_shestakov.exe
